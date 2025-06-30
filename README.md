@@ -101,7 +101,15 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook Project.ipynb
 
 
+
+
+
 🤝 Acknowledgements
+
+
+
 Dataset from Kaggle and chatgpt(synthetic data integration)
+
+
 
 Libraries by the open-source Python community
